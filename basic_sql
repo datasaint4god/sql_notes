@@ -26,3 +26,41 @@ Basic SQL Commands
 
 
     
+
+To see data in a table use the SELECT statement
+SELECT Statement
+    A Data Manipuation Language (DML) statement used to read and modify data
+Select statement: Query
+Result from the query: Resutl set/table
+Select * from <tablename>
+
+Restrict the Result set using the WHERE Clause
+WHERE clause
+    Restricts the result set
+    Always requires a Predicate:
+        Evaluates to: True, False, Unknown
+            SELECT book_id, title FROM Book
+            WHERE predicate
+
+            Select book_id, title FROM Book
+            WHERE book_id = 'B1'
+WHERE clause comparison operators
+Equal to =
+Greater than >
+Lesser than <
+Greater than or equal to >=
+Less than or equal to <=
+Not equal to <>
+
+
+
+
+
+
+
+
+
+
+
+
+
