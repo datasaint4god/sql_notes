@@ -1,0 +1,28 @@
+SQL = Structured Query Language
+
+What is data
+    Data is collection of
+        Facts (words, numbers)
+        Pictures
+        One of the most critical assets of any business
+        Needs to be secure
+
+What is a database
+    A repository of data
+    Provides the functionality for adding, modifying and querying that data
+    Different kinds of databases store data in different forms
+        Data stored in tabular for- columns and rows (relational database)
+
+DBMS = Database Management System
+RDMBS = Relational Database Management System
+    examples (Oracle, MySQL, Db2 Warehouse, etc)
+
+Basic SQL Commands
+    Create a table
+    Insert
+    Select
+    Update
+    Delete
+
+
+    
